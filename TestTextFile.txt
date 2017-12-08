@@ -1,0 +1,2 @@
+This is the text file for FileReader and BufferReader.
+This is a new line.
